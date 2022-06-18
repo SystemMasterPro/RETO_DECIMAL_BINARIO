@@ -1,0 +1,11 @@
+ Reto
+ * DECIMAL A BINARIO
+ * Fecha publicación enunciado: 18/06/22
+ * Fecha máxima de resolución: 20/06/22
+ * Dificultad: FÁCIL
+ *
+ * Enunciado: Crea un programa se encargue de transformar un número decimal a binario sin utilizar funciones propias del lenguaje que lo hagan directamente.
+ *
+ * Información adicional:
+ * - Puedes hacer un Fork del repo y una Pull Request al repo original para que veamos tu solución aportada.
+ * - Revisaré el ejercicio y se publicara el ganador.
